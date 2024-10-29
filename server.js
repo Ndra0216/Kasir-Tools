@@ -38,5 +38,5 @@ app.post('/send-email', (req, res) => {
 
 // Mulai server
 app.listen(PORT, () => {
-    console.log(`Server berjalan di http://localhost:${PORT}`);
+    console.log(`Server berjalan di http://localhost:${3000}`);
 });
